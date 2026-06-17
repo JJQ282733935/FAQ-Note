@@ -21,3 +21,4 @@ anaconda安装教程：https://blog.csdn.net/2503_91827165/article/details/14757
 查看版本是否安装成功:conda -V<br>
 5555
 6666
+7777
