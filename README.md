@@ -19,3 +19,4 @@ anaconda安装教程：https://blog.csdn.net/2503_91827165/article/details/14757
 环境问题：https://blog.csdn.net/qq_51872445/article/details/130023351?ops_request_misc=elastic_search_misc&request_id=5a5dd8eeeb55ce5ab8d906759896d1e1&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-130023351-null-null.142^v102^pc_search_result_base5&utm_term=anaconda%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F&spm=1018.2226.3001.4187<br>
 如果不行，用户变量与系统变量都添加<br>
 查看版本是否安装成功:conda -V<br>
+5555
