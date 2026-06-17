@@ -20,3 +20,4 @@ anaconda安装教程：https://blog.csdn.net/2503_91827165/article/details/14757
 如果不行，用户变量与系统变量都添加<br>
 查看版本是否安装成功:conda -V<br>
 5555
+6666
