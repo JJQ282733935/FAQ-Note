@@ -36,3 +36,4 @@ print("绑定的CUDA版本:", torch.version.cuda)
 print("cuDNN版本:", torch.backends.cudnn.version())
 print("CUDA是否可用:", torch.cuda.is_available())
 ```
+Goodbye！
